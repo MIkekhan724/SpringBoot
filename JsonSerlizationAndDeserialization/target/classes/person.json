@@ -1,0 +1,26 @@
+{
+  "person" : {
+    "orders" : [ {
+      "oid" : 1234,
+      "name" : "laptop",
+      "delivered" : true,
+      "desc" : "good"
+    }, {
+      "name" : "mobile",
+      "delivered" : false,
+      "desc" : "good"
+    }, {
+      "name" : "mobile",
+      "delivered" : false,
+      "desc" : "good"
+    } ],
+    "first_name" : "sachin",
+    "dob" : "26-01-2025 08:29:41",
+    "acoount" : {
+      "accountNumber" : "123452435",
+      "bankName" : "HDFC",
+      "balance" : "12234.00"
+    },
+    "last_name" : "tendulkar"
+  }
+}
